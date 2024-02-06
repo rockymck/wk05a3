@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.stock{
+    border: thin red solid;
+    width: 100px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+}
+.menu{
+    display: flex;
+}
